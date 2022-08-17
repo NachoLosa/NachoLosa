@@ -1,5 +1,5 @@
 &nbsp;
-### Hi there!👋 
+## 👋 Hi there!:
 
 My name is <b>Ignacio Losa A.K.A. Nacho</b> I'm <b>Full Stack Web Developer</b> front-end oriented with the ability to build web projects from scratch always keeping in mind the scalability and organization of them in order to build them in teams.
 <br>
