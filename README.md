@@ -1,4 +1,5 @@
-&nbsp;
+![Brown Wood Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/92478935/185249426-89ca237f-9e47-4ad3-90c4-7404b36a41d8.png)
+
 ## 👋 Hi there!:
 
 My name is <b>Ignacio Losa A.K.A. Nacho</b> I'm <b>Full Stack Web Developer</b> front-end oriented with the ability to build web projects from scratch always keeping in mind the scalability and organization of them in order to build them in teams.
@@ -15,7 +16,7 @@ My name is <b>Ignacio Losa A.K.A. Nacho</b> I'm <b>Full Stack Web Developer</b> 
   ![Node.js](https://img.shields.io/badge/-Node.js-696969?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-696969?style=flat&logo=express)
   
-- 🛢 &nbsp;
+- 🛢 &nbsp;&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-696969?style=flat&logo=postgreSQL)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-696969?style=flat&logo=Sequelize)
   
