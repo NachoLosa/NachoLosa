@@ -38,7 +38,7 @@ My name is <b>Ignacio Losa A.K.A. Nacho</b> I'm <b>Full Stack Web Developer</b>.
 
 ## :pushpin: My proyects
 <p>
-  <a><img src="https://github.com/AM4772/Henry-PF/blob/main/Bookstore.PNG"></a>
+  <a><img src="https://github.com/AM4772/Henry-PF/blob/main/Bookstore.PNG" width='800px'></a>
 </p>
 
 &nbsp;
