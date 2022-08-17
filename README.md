@@ -43,7 +43,7 @@ My name is <b>Ignacio Losa A.K.A. Nacho</b> I'm <b>Full Stack Web Developer</b>.
 
 &nbsp;
 
-## 📫 Contact me
+## 📩 Contact me
 
 <br>
 
