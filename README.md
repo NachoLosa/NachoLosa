@@ -47,10 +47,10 @@ My name is <b>Ignacio Losa A.K.A. Nacho</b> I'm <b>Full Stack Web Developer</b>.
 
 <br>
 
-  <a href="https://www.linkedin.com/in/ignacio-losa/">
+  <a href="https://www.linkedin.com/in/ignacio-losa/" target='_blank'>
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="mailto:ignaciomlosa@gmail.com">
+  <a href="mailto:ignaciomlosa@gmail.com" target='_blank'>
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
 <br>
