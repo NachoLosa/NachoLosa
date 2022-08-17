@@ -1,4 +1,4 @@
-![Brown Wood Minimalist Profile LinkedIn Banner](https://user-images.githubusercontent.com/92478935/185249426-89ca237f-9e47-4ad3-90c4-7404b36a41d8.png)
+![Brown Wood Minimalist Profile LinkedIn Banner (1)](https://user-images.githubusercontent.com/92478935/185256733-437a5e5e-1bde-4a07-aee7-c16b769b0cfa.png)
 
 ## 👋 Hi there!:
 
