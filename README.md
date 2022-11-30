@@ -32,9 +32,9 @@ My name is <b>Ignacio Losa A.K.A. Nacho</b> I'm <b>Full Stack Web Developer</b> 
 
 ## ⚡ My stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nacholosa&hide=issues,contribs&count_private=true&show_icons=true&theme=dracula&hide_title=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nacholosa&hide=issues,contribs&count_private=true&show_icons=true&theme=dracula&hide_title=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nacholosa&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nacholosa&layout=compact&theme=dracula)
 
 &nbsp;
 
